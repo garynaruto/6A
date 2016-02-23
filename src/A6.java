@@ -2,6 +2,8 @@ import java.awt.List;
 import java.util.ArrayList;
 
 public class A6{
+
+
 	public static void main(String[] args){
 		Question logo = new Question("aaa");
         
